@@ -1,0 +1,87 @@
+body {
+    height: 100vh;
+}
+
+.handle {
+    cursor: grab;
+}
+
+li:hover {
+    background-color: #e4e4e462;
+}
+
+
+/* NAVBAR */
+nav {
+    border-bottom: 3px solid rgba(233, 230, 230, 0.377);
+}
+
+.left-bar {
+    position: sticky;
+    top: 0;
+    padding: 0;
+    height: 100vh;
+    background: linear-gradient(to bottom, #ffffff, #f5f5f5); /* Gradient tła */
+    border-right: 3px solid rgba(233, 230, 230, 0.377);
+}
+
+.nav-link {
+    margin-bottom: 5px;
+    transition: all 0.4s ease;
+    position: relative; 
+    max-width: 100%;  
+    white-space: nowrap; /* Zapobiega zawijaniu tekstu */  
+}
+.nav-link:hover {
+    background-color: #e4e4e4c4;
+    
+}
+
+.nav-link.active {
+    font-weight: bold; 
+    background: rgb(14,220,236);
+background: linear-gradient(153deg, rgba(14,220,236,0.5802696078431373) 0%, rgba(0,116,255,0.5466561624649859) 100%);
+}
+
+
+.collapsed {
+    width: 6rem; /* Możesz dostosować szerokość według potrzeb */
+    transition: width 0.5s ease; /* Dodajemy płynną animację */
+}
+
+.left-bar:not(.collapsed) {
+    width: 16rem; /* Możesz dostosować szerokość według potrzeb */
+    transition: width 0.6s ease; /* Dodajemy płynną animację */
+}
+
+
+.collapsed .nav-link {
+    max-width: 3rem;
+}
+
+.collapsed .nav-link span {
+    opacity: 0; /* Ustawiamy początkową przezroczystość na 0 */
+    transition: opacity 0.2s ease; /* Dodajemy animację przejścia */
+}
+
+.nav-link span {
+    opacity:1; /* Ustawiamy początkową przezroczystość na 0 */
+    transition: opacity 2s ease; /* Dodajemy animację przejścia */
+}
+
+/* Dodajemy animację tak, aby przyciski nie przesuwały się, gdy zdjęcie znika */
+.icon-container {
+    display: flex;
+    align-items: center;
+    min-height: 120px;
+    margin-bottom: 8rem;
+}
+.collapsed div a img{
+    transition: width 0.2s ease;
+    width: 0;
+}
+
+div a img{
+    transition: width 0.5s ease;
+    width: 150px;
+}

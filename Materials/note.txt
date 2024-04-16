@@ -1,0 +1,9 @@
+Bazy danych:
+PascalCase
+
+Strona:
+Przy podglądzie planu:
+https://power-planer/workout-plan/plan-name
+
+Przy edycji planu:
+https://power-planer/edit-plan/plan-name
