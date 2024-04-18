@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PowerPlaner.Application/1.0.0": {
+        "dependencies": {
+          "PowerPlaner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PowerPlaner.Application.dll": {}
+        }
+      },
+      "PowerPlaner.Domain/1.0.0": {
+        "runtime": {
+          "PowerPlaner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PowerPlaner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PowerPlaner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

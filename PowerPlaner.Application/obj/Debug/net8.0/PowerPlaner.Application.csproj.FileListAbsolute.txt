@@ -1,0 +1,16 @@
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\bin\Debug\net8.0\PowerPlaner.Application.deps.json
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\bin\Debug\net8.0\PowerPlaner.Application.dll
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\bin\Debug\net8.0\PowerPlaner.Application.pdb
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\bin\Debug\net8.0\PowerPlaner.Domain.dll
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\bin\Debug\net8.0\PowerPlaner.Domain.pdb
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.csproj.AssemblyReference.cache
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.AssemblyInfoInputs.cache
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.AssemblyInfo.cs
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.csproj.CoreCompileInputs.cache
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.sourcelink.json
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPla.072116E2.Up2Date
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.dll
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\refint\PowerPlaner.Application.dll
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.pdb
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\ref\PowerPlaner.Application.dll

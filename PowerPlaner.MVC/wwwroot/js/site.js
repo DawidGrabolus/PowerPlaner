@@ -1,5 +1,4 @@
-﻿
-$(document).ready(function () {
+﻿$(document).ready(function () {
     //NAVBAR
     $('#toggleSidebar').click(function () {
         $('.left-bar').toggleClass('collapsed');
@@ -17,6 +16,4 @@ $(document).ready(function () {
     });
 
     //Link
-   
-}
-    
+});

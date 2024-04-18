@@ -1,0 +1,12 @@
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\bin\Debug\net8.0\PowerPlaner.Domain.deps.json
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\bin\Debug\net8.0\PowerPlaner.Domain.dll
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\bin\Debug\net8.0\PowerPlaner.Domain.pdb
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\obj\Debug\net8.0\PowerPlaner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\obj\Debug\net8.0\PowerPlaner.Domain.AssemblyInfoInputs.cache
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\obj\Debug\net8.0\PowerPlaner.Domain.AssemblyInfo.cs
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\obj\Debug\net8.0\PowerPlaner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\obj\Debug\net8.0\PowerPlaner.Domain.sourcelink.json
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\obj\Debug\net8.0\PowerPlaner.Domain.dll
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\obj\Debug\net8.0\refint\PowerPlaner.Domain.dll
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\obj\Debug\net8.0\PowerPlaner.Domain.pdb
+C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Domain\obj\Debug\net8.0\ref\PowerPlaner.Domain.dll

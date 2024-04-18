@@ -90,3 +90,22 @@ div a img {
 icon-container btn:hover {
     background-color: #e4e4e4c4;
 }
+.circle {
+    background-color: #0d6efd !important;
+    background: linear-gradient(153deg, rgba(14,220,236,0.5802696078431373) 0%, rgba(0,116,255,0.5466561624649859) 100%);
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+}
+    .circle svg {
+        color: white;
+        font-size:24px;
+    }
+
+.con-user{
+    bottom: 0;
+    position:fixed;
+    left: 50%;
+    transform: translateX(-50%);
+
+}

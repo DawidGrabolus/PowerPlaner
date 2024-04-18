@@ -1,7 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using PowerPlaner.Infrastructure.Persistence;
+using PowerPlaner.Infrastructure.Extension;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddInfrastcure(builder.Configuration);
 
 var app = builder.Build();
 
