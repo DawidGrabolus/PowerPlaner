@@ -18,3 +18,23 @@ C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Infrastru
 C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.pdb
 C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.genruntimeconfig.cache
 C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\ref\PowerPlaner.Infrastructure.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\bin\Debug\net8.0\PowerPlaner.Infrastructure.deps.json
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\bin\Debug\net8.0\PowerPlaner.Infrastructure.runtimeconfig.json
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\bin\Debug\net8.0\PowerPlaner.Infrastructure.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\bin\Debug\net8.0\PowerPlaner.Infrastructure.pdb
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\bin\Debug\net8.0\PowerPlaner.Application.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\bin\Debug\net8.0\PowerPlaner.Domain.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\bin\Debug\net8.0\PowerPlaner.Application.pdb
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\bin\Debug\net8.0\PowerPlaner.Domain.pdb
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.csproj.AssemblyReference.cache
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.AssemblyInfoInputs.cache
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.AssemblyInfo.cs
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.sourcelink.json
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.csproj.CopyComplete
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\refint\PowerPlaner.Infrastructure.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.pdb
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\PowerPlaner.Infrastructure.genruntimeconfig.cache
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Infrastructure\obj\Debug\net8.0\ref\PowerPlaner.Infrastructure.dll

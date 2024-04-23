@@ -1,4 +1,6 @@
 ﻿$(document).ready(function () {
+    
+
     //NAVBAR
     $('#toggleSidebar').click(function () {
         $('.left-bar').toggleClass('collapsed');
@@ -15,5 +17,12 @@
         $(".list-group").slideUp("slow");
     });
 
+   
+
     //Link
+
+    $('#toggleSidebar').click(function () {
+        $('.left-bar').toggleClass('collapsed');
+        $(".list-group").slideUp(200);
+    });   
 });

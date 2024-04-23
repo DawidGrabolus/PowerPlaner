@@ -1,0 +1,47 @@
+﻿@model RegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container-fluid t rounded">
+    <div class="container mt-5">
+        <div class="d-flex align-items-center bg-light rounded">
+            <div class="col-md-5  rounded p-4 login" style="flex: 1;">
+                <form asp-action="Register" method="post" class="w-75">
+                    <h1 class="text-start mb-4"><b>Register</b></h1>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label">Email</label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger rounded"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Username" class="form-label">Username</label>
+                        <input asp-for="Username" class="form-control" />
+                        <span asp-validation-for="Username" class="text-danger rounded"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Password" class="form-label">Password</label>
+                        <input asp-for="Password" class="form-control rounded-2" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="ConfirmPassword" class="form-label">ConfirmPassword</label>
+                        <input asp-for="ConfirmPassword" class="form-control rounded-2" type="password"/>
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Register</button>
+
+                    <div class="form-text mb-5 text-start">
+                        <a class="navbar-text" asp-controller="Account" asp-action="Login">Have an account?</a>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <img src="~/image/bear.png" class="img-fluid rounded-2" alt="Lion Image" width="85%">
+            </div>
+        </div>
+    </div>
+</div>

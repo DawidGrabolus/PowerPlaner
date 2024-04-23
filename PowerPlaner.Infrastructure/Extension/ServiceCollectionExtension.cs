@@ -1,7 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using PowerPlaner.Domain.Interface;
 using PowerPlaner.Infrastructure.Persistence;
+using PowerPlaner.Infrastructure.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,6 +19,7 @@ namespace PowerPlaner.Infrastructure.Extension
         {
             services.AddDbContext<PowerPlanerDbContex>(options => options.UseSqlServer(configuration.GetConnectionString("PowerPlaner")));
 
+            services.AddScoped<IWorkoutPlanRepository, WorkoutPlanRepository>();
         }
     }
 }

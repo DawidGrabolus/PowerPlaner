@@ -14,3 +14,21 @@ C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Applicati
 C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\refint\PowerPlaner.Application.dll
 C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.pdb
 C:\Users\Egzamin\Documents\Projekt semestralny\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\ref\PowerPlaner.Application.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\bin\Debug\net8.0\PowerPlaner.Application.deps.json
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\bin\Debug\net8.0\PowerPlaner.Application.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\bin\Debug\net8.0\PowerPlaner.Application.pdb
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\bin\Debug\net8.0\PowerPlaner.Domain.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\bin\Debug\net8.0\PowerPlaner.Domain.pdb
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.csproj.AssemblyReference.cache
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.AssemblyInfoInputs.cache
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.AssemblyInfo.cs
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.csproj.CoreCompileInputs.cache
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.sourcelink.json
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.csproj.CopyComplete
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\refint\PowerPlaner.Application.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.pdb
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\ref\PowerPlaner.Application.dll
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\bin\Debug\net8.0\PowerPlaner.Application.runtimeconfig.json
+D:\Projekt-semestralny\Project\PowerPlaner\PowerPlaner.Application\obj\Debug\net8.0\PowerPlaner.Application.genruntimeconfig.cache
