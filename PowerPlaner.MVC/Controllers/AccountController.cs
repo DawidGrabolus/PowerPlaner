@@ -38,9 +38,9 @@ namespace CustomIdentity.Controllers
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User logged in.");
-                    return RedirectToLocal(returnUrl);
+                    return RedirectToLocal(nameof(WorkoutPlanController.Index));
                 }
-                
+
                 _logger.LogWarning("Invalid login attempt.");
                 ModelState.AddModelError("", "Invalid login attempt");
             }
@@ -73,7 +73,7 @@ namespace CustomIdentity.Controllers
                     await _signInManager.SignInAsync(user, false);
                     return RedirectToLocal(returnUrl);
                 }
-               
+
 
                 foreach (var error in result.Errors)
                 {
@@ -94,7 +94,7 @@ namespace CustomIdentity.Controllers
         {
             return !string.IsNullOrEmpty(returnUrl) && Url.IsLocalUrl(returnUrl)
                 ? Redirect(returnUrl)
-                : RedirectToAction(nameof(HomeController.Index), "Home");
+                : RedirectToAction(nameof(WorkoutPlanController.Index), "Home");
         }
     }
 }

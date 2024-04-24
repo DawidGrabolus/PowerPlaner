@@ -36,7 +36,7 @@
         <span class="btn-text">Create workout plan</span>
 
     </a>
-    <a class="nav-link text-start @(currentUrl == "YourPlans" ? "active" : "")" asp-action="YourPlans" asp-controller="WorkoutPlan">
+    <a class="nav-link text-start @(currentUrl == "YourPlans" ? "active" : "") plans" asp-action="YourPlans" asp-controller="WorkoutPlan">
         <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="currentColor"
              class="bi bi-journal-bookmark-fill">
             <path fill-rule="evenodd" d="M6 1h6v7a.5.5 0 0 1-.757.429L9 7.083 6.757 8.43A.5.5 0 0 1 6 8z" />
@@ -45,13 +45,15 @@
         </svg>
         <span class="btn-text"> Your plans</span>
     </a>
-    <ul class="list-group" style="display: none;">
-        <li class="list-group-item">An item</li>
-        <li class="list-group-item">A second item</li>
-        <li class="list-group-item">A third item</li>
-        <li class="list-group-item">A fourth item</li>
-        <li class="list-group-item">And a fifth one</li>
-    </ul>
+
+        <ul class="list-group" style="display: none;">
+            
+            @foreach (var item in Model)
+            {
+                <li class="list-group-item">@item.Name</li>
+            }
+            
+        </ul>
     <a class="nav-link text-start @(currentUrl == "Instruction" ? "active" : "")" asp-action="Instruction" asp-controller="WorkoutPlan">
         <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="currentColor"
              class="bi bi-mortarboard">
@@ -70,7 +72,7 @@
             <span class="btn-text">Profile</span>
         </button>
         <ul class="dropdown-menu">
-            <li><a class="dropdown-item" asp-action="Profile" asp-controller="Home">Your profile</a></li>
+            <li><a class="dropdown-item" asp-action="Profile" asp-controller="WorkoutPlan">Your profile</a></li>
             <li><a class="dropdown-item" asp-action="Logout" asp-controller="Account">Logout</a></li>
         </ul>
     </div>

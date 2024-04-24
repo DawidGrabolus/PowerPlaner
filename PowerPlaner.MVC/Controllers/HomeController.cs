@@ -1,24 +1,27 @@
-using System.Diagnostics;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using PowerPlaner.Application.Services;
 using PowerPlaner.MVC.Models;
+using System.Diagnostics;
 
 namespace PowerPlaner.MVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IWorkoutPlanServices _workoutPlan;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IWorkoutPlanServices workoutPlan)
         {
-            _logger = logger;
+            _workoutPlan = workoutPlan;
         }
 
-        public IActionResult Index()
+
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var workoutPlan = await _workoutPlan.GetAll();
+            ViewData["WorkoutPlans"] = workoutPlan;
+            return View(workoutPlan);
         }
-        
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
@@ -27,5 +30,3 @@ namespace PowerPlaner.MVC.Controllers
         }
     }
 }
-
-

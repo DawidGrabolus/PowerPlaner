@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PowerPlaner.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77cfd4b3710ba226a7f4efa013273476cc1321b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13f869348d7cc33ffd475ae1a5ee3d69c7eed59d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PowerPlaner.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PowerPlaner.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

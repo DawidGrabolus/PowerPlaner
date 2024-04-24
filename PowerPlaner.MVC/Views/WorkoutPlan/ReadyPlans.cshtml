@@ -4,5 +4,14 @@
 
 <div class="text-center">
     <h1 class="display-4">Ready Plans</h1>
-    <iframe src="https://giphy.com/embed/vVzH2XY3Y0Ar6" width="360" height="480" frameBorder="0"></iframe>
+    <div class="text-center">
+        @foreach (var item in Model)
+        {
+            <div class="card m-3" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                </div>
+            </div>
+        }
+    </div>
 </div>
